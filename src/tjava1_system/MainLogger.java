@@ -6,8 +6,6 @@ import java.util.logging.Logger;
 public class MainLogger extends AbstractLogger {
 
 
-
-
 	@Override
 	public void setLoggerName() {
 		loggerName = "tosi.mainc";
@@ -36,9 +34,6 @@ public class MainLogger extends AbstractLogger {
 
 
 }
-
-
-
 
 
 
